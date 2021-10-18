@@ -10,4 +10,3 @@ puts '--------- first ten multiples of 3 --------'
 end
 #also
 10.times { |i| puts " - #{3 * (i + 1)} "}
-
