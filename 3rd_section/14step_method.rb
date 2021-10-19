@@ -4,3 +4,4 @@ puts ' --------------------------------- '
   puts " Alright, let's go up by 7 again! "
   puts " I'm now on #{n} "
 end
+
